@@ -1,3 +1,4 @@
 u
-**.exe
+*.exe
 .vscode
+*.gitignore
