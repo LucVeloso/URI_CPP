@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json",
+    "iomanip": "cpp",
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "cmath": "cpp"
+  }
+}
